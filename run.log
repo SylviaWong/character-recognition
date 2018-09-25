@@ -1,0 +1,242 @@
+***************************************************************************
+		2018-08-29 12:16:49
+Epoch: 0, Loss= 1.415298, Training Accuracy= 0.300000
+Epoch: 1, Loss= 1.457429, Training Accuracy= 0.000000
+Epoch: 2, Loss= 1.350501, Training Accuracy= 0.400000
+Epoch: 3, Loss= 1.364257, Training Accuracy= 0.300000
+Epoch: 4, Loss= 1.410654, Training Accuracy= 0.100000
+Epoch: 5, Loss= 1.396262, Training Accuracy= 0.100000
+Epoch: 6, Loss= 1.468334, Training Accuracy= 0.100000
+Epoch: 7, Loss= 1.426299, Training Accuracy= 0.100000
+Epoch: 8, Loss= 1.381422, Training Accuracy= 0.300000
+Epoch: 9, Loss= 1.421608, Training Accuracy= 0.200000
+Epoch: 0, Loss= 1.374225, Training Accuracy= 0.200000
+Epoch: 1, Loss= 1.406829, Training Accuracy= 0.000000
+Epoch: 2, Loss= 1.382812, Training Accuracy= 0.300000
+Epoch: 3, Loss= 1.380020, Training Accuracy= 0.300000
+Epoch: 4, Loss= 1.388342, Training Accuracy= 0.100000
+Epoch: 5, Loss= 1.383555, Training Accuracy= 0.300000
+Epoch: 6, Loss= 1.384916, Training Accuracy= 0.300000
+Epoch: 7, Loss= 1.384081, Training Accuracy= 0.300000
+Epoch: 8, Loss= 1.385957, Training Accuracy= 0.100000
+Epoch: 9, Loss= 1.385664, Training Accuracy= 0.400000
+Epoch: 0, Loss= 1.383738, Training Accuracy= 0.300000
+Epoch: 1, Loss= 1.386966, Training Accuracy= 0.200000
+Epoch: 2, Loss= 1.387157, Training Accuracy= 0.100000
+Epoch: 3, Loss= 1.385841, Training Accuracy= 0.300000
+Epoch: 4, Loss= 1.384626, Training Accuracy= 0.400000
+Epoch: 5, Loss= 1.385125, Training Accuracy= 0.300000
+Epoch: 6, Loss= 1.386227, Training Accuracy= 0.200000
+Epoch: 7, Loss= 1.385439, Training Accuracy= 0.500000
+Epoch: 8, Loss= 1.386609, Training Accuracy= 0.100000
+Epoch: 9, Loss= 1.387196, Training Accuracy= 0.100000
+Epoch: 0, Loss= 1.384654, Training Accuracy= 0.400000
+Epoch: 1, Loss= 1.385763, Training Accuracy= 0.500000
+Epoch: 2, Loss= 1.385124, Training Accuracy= 0.300000
+Epoch: 3, Loss= 1.385278, Training Accuracy= 0.300000
+Epoch: 4, Loss= 1.387936, Training Accuracy= 0.000000
+Epoch: 5, Loss= 1.387684, Training Accuracy= 0.200000
+Epoch: 6, Loss= 1.387537, Training Accuracy= 0.100000
+Epoch: 7, Loss= 1.384426, Training Accuracy= 0.700000
+Epoch: 8, Loss= 1.385728, Training Accuracy= 0.200000
+Epoch: 9, Loss= 1.386773, Training Accuracy= 0.100000
+Epoch: 0, Loss= 1.387197, Training Accuracy= 0.000000
+Epoch: 1, Loss= 1.385787, Training Accuracy= 0.300000
+Epoch: 2, Loss= 1.385851, Training Accuracy= 0.400000
+Epoch: 3, Loss= 1.385375, Training Accuracy= 0.400000
+Epoch: 4, Loss= 1.386603, Training Accuracy= 0.200000
+Epoch: 5, Loss= 1.385540, Training Accuracy= 0.200000
+Epoch: 6, Loss= 1.385639, Training Accuracy= 0.400000
+Epoch: 7, Loss= 1.386688, Training Accuracy= 0.400000
+Epoch: 8, Loss= 1.386896, Training Accuracy= 0.000000
+Epoch: 9, Loss= 1.385050, Training Accuracy= 0.300000
+Epoch: 0, Loss= 1.388376, Training Accuracy= 0.200000
+Epoch: 1, Loss= 1.387820, Training Accuracy= 0.300000
+Epoch: 2, Loss= 1.387956, Training Accuracy= 0.100000
+Epoch: 3, Loss= 1.387280, Training Accuracy= 0.100000
+Epoch: 4, Loss= 1.386478, Training Accuracy= 0.200000
+Epoch: 5, Loss= 1.384411, Training Accuracy= 0.200000
+Epoch: 6, Loss= 1.387890, Training Accuracy= 0.200000
+Epoch: 7, Loss= 1.388416, Training Accuracy= 0.100000
+Epoch: 8, Loss= 1.387285, Training Accuracy= 0.100000
+Epoch: 9, Loss= 1.384405, Training Accuracy= 0.300000
+Epoch: 0, Loss= 1.392151, Training Accuracy= 0.200000
+Epoch: 1, Loss= 1.381360, Training Accuracy= 0.500000
+Epoch: 2, Loss= 1.380934, Training Accuracy= 0.200000
+Epoch: 3, Loss= 1.388396, Training Accuracy= 0.200000
+Epoch: 4, Loss= 1.388211, Training Accuracy= 0.200000
+Epoch: 5, Loss= 1.381253, Training Accuracy= 0.500000
+Epoch: 6, Loss= 1.385043, Training Accuracy= 0.500000
+Epoch: 7, Loss= 1.380859, Training Accuracy= 0.500000
+Epoch: 8, Loss= 1.389043, Training Accuracy= 0.200000
+Epoch: 9, Loss= 1.387294, Training Accuracy= 0.100000
+Epoch: 0, Loss= 1.384712, Training Accuracy= 0.400000
+Epoch: 1, Loss= 1.389677, Training Accuracy= 0.000000
+Epoch: 2, Loss= 1.385169, Training Accuracy= 0.200000
+Epoch: 3, Loss= 1.384178, Training Accuracy= 0.400000
+Epoch: 4, Loss= 1.384808, Training Accuracy= 0.400000
+Epoch: 5, Loss= 1.385357, Training Accuracy= 0.400000
+Epoch: 6, Loss= 1.386255, Training Accuracy= 0.200000
+Epoch: 7, Loss= 1.385723, Training Accuracy= 0.300000
+Epoch: 8, Loss= 1.386250, Training Accuracy= 0.300000
+Epoch: 9, Loss= 1.387037, Training Accuracy= 0.100000
+Epoch: 0, Loss= 1.385937, Training Accuracy= 0.300000
+Epoch: 1, Loss= 1.387281, Training Accuracy= 0.200000
+Epoch: 2, Loss= 1.385586, Training Accuracy= 0.300000
+Epoch: 3, Loss= 1.384269, Training Accuracy= 0.200000
+Epoch: 4, Loss= 1.386177, Training Accuracy= 0.200000
+Epoch: 5, Loss= 1.386317, Training Accuracy= 0.400000
+Epoch: 6, Loss= 1.387110, Training Accuracy= 0.100000
+Epoch: 7, Loss= 1.386694, Training Accuracy= 0.200000
+Epoch: 8, Loss= 1.386241, Training Accuracy= 0.400000
+Epoch: 9, Loss= 1.386401, Training Accuracy= 0.100000
+Epoch: 0, Loss= 1.386747, Training Accuracy= 0.100000
+Epoch: 1, Loss= 1.386625, Training Accuracy= 0.200000
+Epoch: 2, Loss= 1.386014, Training Accuracy= 0.300000
+Epoch: 3, Loss= 1.387085, Training Accuracy= 0.000000
+Epoch: 4, Loss= 1.386487, Training Accuracy= 0.200000
+Epoch: 5, Loss= 1.386549, Training Accuracy= 0.500000
+Epoch: 6, Loss= 1.386153, Training Accuracy= 0.400000
+Epoch: 7, Loss= 1.386256, Training Accuracy= 0.400000
+Epoch: 8, Loss= 1.387111, Training Accuracy= 0.300000
+Epoch: 9, Loss= 1.387058, Training Accuracy= 0.200000
+Epoch: 0, Loss= 1.387671, Training Accuracy= 0.000000
+Epoch: 1, Loss= 1.387697, Training Accuracy= 0.100000
+Epoch: 2, Loss= 1.386894, Training Accuracy= 0.300000
+Epoch: 3, Loss= 1.386298, Training Accuracy= 0.400000
+Epoch: 4, Loss= 1.386757, Training Accuracy= 0.200000
+Epoch: 5, Loss= 1.387060, Training Accuracy= 0.300000
+Epoch: 6, Loss= 1.387029, Training Accuracy= 0.300000
+Epoch: 7, Loss= 1.385295, Training Accuracy= 0.200000
+Epoch: 8, Loss= 1.386876, Training Accuracy= 0.200000
+Epoch: 9, Loss= 1.390756, Training Accuracy= 0.200000
+Epoch: 0, Loss= 1.379497, Training Accuracy= 0.400000
+Epoch: 1, Loss= 1.382038, Training Accuracy= 0.300000
+
+
+
+***************************************************************************
+		2018-08-29 12:35:22
+Epoch: 0, Loss= 1.388883, Training Accuracy= 0.200000
+Epoch: 1, Loss= 1.429845, Training Accuracy= 0.100000
+Epoch: 2, Loss= 1.398930, Training Accuracy= 0.200000
+Epoch: 3, Loss= 1.355332, Training Accuracy= 0.400000
+Epoch: 4, Loss= 1.363745, Training Accuracy= 0.500000
+Epoch: 5, Loss= 1.367728, Training Accuracy= 0.300000
+Epoch: 6, Loss= 1.351837, Training Accuracy= 0.400000
+Epoch: 7, Loss= 1.441673, Training Accuracy= 0.100000
+Epoch: 8, Loss= 1.385296, Training Accuracy= 0.300000
+Epoch: 9, Loss= 1.375781, Training Accuracy= 0.300000
+Epoch: 0, Loss= 1.401447, Training Accuracy= 0.100000
+Epoch: 1, Loss= 1.417519, Training Accuracy= 0.000000
+Epoch: 2, Loss= 1.376330, Training Accuracy= 0.300000
+Epoch: 3, Loss= 1.414048, Training Accuracy= 0.100000
+Epoch: 4, Loss= 1.376523, Training Accuracy= 0.400000
+Epoch: 5, Loss= 1.356235, Training Accuracy= 0.300000
+Epoch: 6, Loss= 1.383684, Training Accuracy= 0.300000
+Epoch: 7, Loss= 1.361013, Training Accuracy= 0.300000
+Epoch: 8, Loss= 1.376710, Training Accuracy= 0.400000
+Epoch: 9, Loss= 1.396278, Training Accuracy= 0.200000
+Epoch: 0, Loss= 1.422615, Training Accuracy= 0.000000
+Epoch: 1, Loss= 1.428200, Training Accuracy= 0.100000
+Epoch: 2, Loss= 1.406970, Training Accuracy= 0.100000
+Epoch: 3, Loss= 1.394367, Training Accuracy= 0.200000
+Epoch: 4, Loss= 1.381480, Training Accuracy= 0.200000
+Epoch: 5, Loss= 1.343873, Training Accuracy= 0.500000
+Epoch: 6, Loss= 1.402673, Training Accuracy= 0.200000
+Epoch: 7, Loss= 1.391559, Training Accuracy= 0.200000
+Epoch: 8, Loss= 1.386946, Training Accuracy= 0.300000
+Epoch: 9, Loss= 1.388248, Training Accuracy= 0.200000
+Epoch: 0, Loss= 1.376967, Training Accuracy= 0.300000
+Epoch: 1, Loss= 1.382701, Training Accuracy= 0.400000
+Epoch: 2, Loss= 1.385556, Training Accuracy= 0.300000
+Epoch: 3, Loss= 1.394613, Training Accuracy= 0.100000
+Epoch: 4, Loss= 1.387526, Training Accuracy= 0.200000
+Epoch: 5, Loss= 1.382100, Training Accuracy= 0.400000
+Epoch: 6, Loss= 1.385708, Training Accuracy= 0.200000
+Epoch: 7, Loss= 1.384912, Training Accuracy= 0.300000
+Epoch: 8, Loss= 1.385768, Training Accuracy= 0.300000
+Epoch: 9, Loss= 1.383512, Training Accuracy= 0.400000
+
+
+
+***************************************************************************
+		2018-08-29 12:44:25
+Epoch: 0, Loss= 1.463036, Training Accuracy= 0.100000
+Epoch: 1, Loss= 1.388367, Training Accuracy= 0.200000
+Epoch: 2, Loss= 1.394453, Training Accuracy= 0.100000
+Epoch: 3, Loss= 1.416694, Training Accuracy= 0.100000
+Epoch: 4, Loss= 1.364332, Training Accuracy= 0.300000
+Epoch: 5, Loss= 1.392080, Training Accuracy= 0.300000
+Epoch: 6, Loss= 1.406676, Training Accuracy= 0.200000
+Epoch: 7, Loss= 1.412091, Training Accuracy= 0.300000
+Epoch: 8, Loss= 1.408393, Training Accuracy= 0.100000
+Epoch: 9, Loss= 1.388481, Training Accuracy= 0.100000
+Epoch: 0, Loss= 1.255681, Training Accuracy= 0.500000
+Epoch: 1, Loss= 0.714235, Training Accuracy= 0.700000
+Epoch: 2, Loss= 0.733281, Training Accuracy= 0.900000
+Epoch: 3, Loss= 0.032823, Training Accuracy= 1.000000
+Epoch: 4, Loss= 0.303808, Training Accuracy= 0.900000
+Epoch: 5, Loss= 0.104483, Training Accuracy= 1.000000
+Epoch: 6, Loss= 0.134809, Training Accuracy= 1.000000
+Epoch: 7, Loss= 0.026417, Training Accuracy= 1.000000
+Epoch: 8, Loss= 0.094892, Training Accuracy= 1.000000
+Epoch: 9, Loss= 0.000363, Training Accuracy= 1.000000
+Epoch: 0, Loss= 0.000169, Training Accuracy= 1.000000
+Epoch: 1, Loss= 0.037475, Training Accuracy= 1.000000
+Epoch: 2, Loss= 0.000002, Training Accuracy= 1.000000
+Epoch: 3, Loss= 0.000014, Training Accuracy= 1.000000
+
+
+
+***************************************************************************
+		2018-08-29 13:09:48
+Epoch: 0, Loss= 1.003108, Training Accuracy= 0.500000
+Epoch: 1, Loss= 0.211496, Training Accuracy= 1.000000
+Epoch: 2, Loss= 0.080146, Training Accuracy= 1.000000
+Epoch: 3, Loss= 0.081533, Training Accuracy= 1.000000
+Epoch: 4, Loss= 0.357470, Training Accuracy= 0.900000
+Epoch: 5, Loss= 0.129465, Training Accuracy= 0.900000
+Epoch: 6, Loss= 0.069631, Training Accuracy= 1.000000
+Epoch: 7, Loss= 0.012520, Training Accuracy= 1.000000
+Epoch: 8, Loss= 0.007023, Training Accuracy= 1.000000
+Epoch: 9, Loss= 0.029321, Training Accuracy= 1.000000
+Epoch: 0, Loss= 0.000250, Training Accuracy= 1.000000
+Epoch: 1, Loss= 0.000453, Training Accuracy= 1.000000
+Epoch: 2, Loss= 0.000512, Training Accuracy= 1.000000
+Epoch: 3, Loss= 0.013614, Training Accuracy= 1.000000
+Epoch: 4, Loss= 0.000717, Training Accuracy= 1.000000
+Epoch: 5, Loss= 0.002935, Training Accuracy= 1.000000
+Epoch: 6, Loss= 0.002546, Training Accuracy= 1.000000
+Epoch: 7, Loss= 0.325072, Training Accuracy= 0.900000
+Epoch: 8, Loss= 0.042328, Training Accuracy= 1.000000
+Epoch: 9, Loss= 0.000209, Training Accuracy= 1.000000
+Epoch: 0, Loss= 0.000315, Training Accuracy= 1.000000
+Epoch: 1, Loss= 0.000363, Training Accuracy= 1.000000
+Epoch: 2, Loss= 0.002008, Training Accuracy= 1.000000
+Epoch: 3, Loss= 0.006372, Training Accuracy= 1.000000
+Epoch: 4, Loss= 0.000132, Training Accuracy= 1.000000
+Epoch: 5, Loss= 0.000002, Training Accuracy= 1.000000
+Epoch: 6, Loss= 0.000364, Training Accuracy= 1.000000
+
+
+
+
+***************************************************************************
+		2018-08-29 13:53:02
+Epoch: 0, Loss= 1.296490, Training Accuracy= 0.500000
+Epoch: 1, Loss= 0.790738, Training Accuracy= 0.700000
+Epoch: 2, Loss= 0.527730, Training Accuracy= 0.700000
+Epoch: 3, Loss= 0.014853, Training Accuracy= 1.000000
+Epoch: 4, Loss= 0.038242, Training Accuracy= 1.000000
+Epoch: 5, Loss= 0.000609, Training Accuracy= 1.000000
+Epoch: 6, Loss= 0.001988, Training Accuracy= 1.000000
+Epoch: 7, Loss= 0.023335, Training Accuracy= 1.000000
+Epoch: 8, Loss= 0.069410, Training Accuracy= 1.000000
+Epoch: 9, Loss= 0.000677, Training Accuracy= 1.000000
+Epoch: 0, Loss= 0.000114, Training Accuracy= 1.000000
+Epoch: 1, Loss= 0.014086, Training Accuracy= 1.000000
+Epoch: 2, Loss= 0.000302, Training Accuracy= 1.000000
+Epoch: 3, Loss= 0.000265, Training Accuracy= 1.000000
+Epoch: 4, Loss= 0.000003, Training Accuracy= 1.000000
+Epoch: 5, Loss= 0.000014, Training Accuracy= 1.000000
